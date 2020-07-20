@@ -6,8 +6,7 @@ SwiftUI An analogue of `NavigationView` that provides a convenient interface of 
 
 ## How to use
 ### Step 1
-Add a dependency using Swift Package Manager to your project: [https://github.com/diniska/modal-view](https://github.com/diniska/modal-view)
-
+Add a dependency using Swift Package Manager to your project: 
 #### Step 2
 Import the dependency
 
