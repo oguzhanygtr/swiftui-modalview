@@ -77,5 +77,5 @@ struct MyModalView: View {
 ```
 
 
-Learn more here: [Display Modal View with SwiftUI](https://medium.com/@diniska/modal-view-in-swiftui-3f9faf910249)
+
 
